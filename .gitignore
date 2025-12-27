@@ -1,0 +1,21 @@
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# Node / Build
+node_modules/
+dist/
+
+# WordPress
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+
+# Vendor
+vendor/
+
+# Env files
+.env
+.env.*
